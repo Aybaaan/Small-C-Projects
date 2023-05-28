@@ -1,3 +1,4 @@
 # Small-C-Projects
 
-Old projects/Assignments in school but modifications were added.
+Everything is written in C
+Added the .exe files that can be executed without having the C language setup or proper IDE in your machine
