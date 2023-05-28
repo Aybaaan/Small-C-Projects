@@ -1,3 +1,8 @@
+/*
+This approach in finding the fibonacci sequence
+can handle up to 10000 or more number of terms.
+*/
+
 #include <stdio.h>
 
 int main() {
